@@ -1,0 +1,15 @@
+C:\Users\zrvma\OneDrive\Desktop\Computer_Science_11_grade\Data_Structures_Book\Chapter_3\Task3_1\bin\Debug\net7.0\Task3_1.exe
+C:\Users\zrvma\OneDrive\Desktop\Computer_Science_11_grade\Data_Structures_Book\Chapter_3\Task3_1\bin\Debug\net7.0\Task3_1.deps.json
+C:\Users\zrvma\OneDrive\Desktop\Computer_Science_11_grade\Data_Structures_Book\Chapter_3\Task3_1\bin\Debug\net7.0\Task3_1.runtimeconfig.json
+C:\Users\zrvma\OneDrive\Desktop\Computer_Science_11_grade\Data_Structures_Book\Chapter_3\Task3_1\bin\Debug\net7.0\Task3_1.dll
+C:\Users\zrvma\OneDrive\Desktop\Computer_Science_11_grade\Data_Structures_Book\Chapter_3\Task3_1\bin\Debug\net7.0\Task3_1.pdb
+C:\Users\zrvma\OneDrive\Desktop\Computer_Science_11_grade\Data_Structures_Book\Chapter_3\Task3_1\obj\Debug\net7.0\Task3_1.csproj.AssemblyReference.cache
+C:\Users\zrvma\OneDrive\Desktop\Computer_Science_11_grade\Data_Structures_Book\Chapter_3\Task3_1\obj\Debug\net7.0\Task3_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zrvma\OneDrive\Desktop\Computer_Science_11_grade\Data_Structures_Book\Chapter_3\Task3_1\obj\Debug\net7.0\Task3_1.AssemblyInfoInputs.cache
+C:\Users\zrvma\OneDrive\Desktop\Computer_Science_11_grade\Data_Structures_Book\Chapter_3\Task3_1\obj\Debug\net7.0\Task3_1.AssemblyInfo.cs
+C:\Users\zrvma\OneDrive\Desktop\Computer_Science_11_grade\Data_Structures_Book\Chapter_3\Task3_1\obj\Debug\net7.0\Task3_1.csproj.CoreCompileInputs.cache
+C:\Users\zrvma\OneDrive\Desktop\Computer_Science_11_grade\Data_Structures_Book\Chapter_3\Task3_1\obj\Debug\net7.0\Task3_1.dll
+C:\Users\zrvma\OneDrive\Desktop\Computer_Science_11_grade\Data_Structures_Book\Chapter_3\Task3_1\obj\Debug\net7.0\refint\Task3_1.dll
+C:\Users\zrvma\OneDrive\Desktop\Computer_Science_11_grade\Data_Structures_Book\Chapter_3\Task3_1\obj\Debug\net7.0\Task3_1.pdb
+C:\Users\zrvma\OneDrive\Desktop\Computer_Science_11_grade\Data_Structures_Book\Chapter_3\Task3_1\obj\Debug\net7.0\Task3_1.genruntimeconfig.cache
+C:\Users\zrvma\OneDrive\Desktop\Computer_Science_11_grade\Data_Structures_Book\Chapter_3\Task3_1\obj\Debug\net7.0\ref\Task3_1.dll

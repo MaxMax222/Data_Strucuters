@@ -1,0 +1,15 @@
+C:\Users\zrvma\OneDrive\Desktop\Computer_Science_11_grade\Data_Structures_Book\Chapter_4\Task4_0\bin\Debug\net7.0\Task4_0.exe
+C:\Users\zrvma\OneDrive\Desktop\Computer_Science_11_grade\Data_Structures_Book\Chapter_4\Task4_0\bin\Debug\net7.0\Task4_0.deps.json
+C:\Users\zrvma\OneDrive\Desktop\Computer_Science_11_grade\Data_Structures_Book\Chapter_4\Task4_0\bin\Debug\net7.0\Task4_0.runtimeconfig.json
+C:\Users\zrvma\OneDrive\Desktop\Computer_Science_11_grade\Data_Structures_Book\Chapter_4\Task4_0\bin\Debug\net7.0\Task4_0.dll
+C:\Users\zrvma\OneDrive\Desktop\Computer_Science_11_grade\Data_Structures_Book\Chapter_4\Task4_0\bin\Debug\net7.0\Task4_0.pdb
+C:\Users\zrvma\OneDrive\Desktop\Computer_Science_11_grade\Data_Structures_Book\Chapter_4\Task4_0\obj\Debug\net7.0\Task4_0.csproj.AssemblyReference.cache
+C:\Users\zrvma\OneDrive\Desktop\Computer_Science_11_grade\Data_Structures_Book\Chapter_4\Task4_0\obj\Debug\net7.0\Task4_0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zrvma\OneDrive\Desktop\Computer_Science_11_grade\Data_Structures_Book\Chapter_4\Task4_0\obj\Debug\net7.0\Task4_0.AssemblyInfoInputs.cache
+C:\Users\zrvma\OneDrive\Desktop\Computer_Science_11_grade\Data_Structures_Book\Chapter_4\Task4_0\obj\Debug\net7.0\Task4_0.AssemblyInfo.cs
+C:\Users\zrvma\OneDrive\Desktop\Computer_Science_11_grade\Data_Structures_Book\Chapter_4\Task4_0\obj\Debug\net7.0\Task4_0.csproj.CoreCompileInputs.cache
+C:\Users\zrvma\OneDrive\Desktop\Computer_Science_11_grade\Data_Structures_Book\Chapter_4\Task4_0\obj\Debug\net7.0\Task4_0.dll
+C:\Users\zrvma\OneDrive\Desktop\Computer_Science_11_grade\Data_Structures_Book\Chapter_4\Task4_0\obj\Debug\net7.0\refint\Task4_0.dll
+C:\Users\zrvma\OneDrive\Desktop\Computer_Science_11_grade\Data_Structures_Book\Chapter_4\Task4_0\obj\Debug\net7.0\Task4_0.pdb
+C:\Users\zrvma\OneDrive\Desktop\Computer_Science_11_grade\Data_Structures_Book\Chapter_4\Task4_0\obj\Debug\net7.0\Task4_0.genruntimeconfig.cache
+C:\Users\zrvma\OneDrive\Desktop\Computer_Science_11_grade\Data_Structures_Book\Chapter_4\Task4_0\obj\Debug\net7.0\ref\Task4_0.dll

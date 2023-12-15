@@ -1,0 +1,15 @@
+c:\Users\zrvma\OneDrive\Desktop\Computer_Science_11_grade\Data_Structures_Book\LinkedListObj\bin\Debug\net7.0\LinkedListObj.exe
+c:\Users\zrvma\OneDrive\Desktop\Computer_Science_11_grade\Data_Structures_Book\LinkedListObj\bin\Debug\net7.0\LinkedListObj.deps.json
+c:\Users\zrvma\OneDrive\Desktop\Computer_Science_11_grade\Data_Structures_Book\LinkedListObj\bin\Debug\net7.0\LinkedListObj.runtimeconfig.json
+c:\Users\zrvma\OneDrive\Desktop\Computer_Science_11_grade\Data_Structures_Book\LinkedListObj\bin\Debug\net7.0\LinkedListObj.dll
+c:\Users\zrvma\OneDrive\Desktop\Computer_Science_11_grade\Data_Structures_Book\LinkedListObj\bin\Debug\net7.0\LinkedListObj.pdb
+c:\Users\zrvma\OneDrive\Desktop\Computer_Science_11_grade\Data_Structures_Book\LinkedListObj\obj\Debug\net7.0\LinkedListObj.csproj.AssemblyReference.cache
+c:\Users\zrvma\OneDrive\Desktop\Computer_Science_11_grade\Data_Structures_Book\LinkedListObj\obj\Debug\net7.0\LinkedListObj.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\zrvma\OneDrive\Desktop\Computer_Science_11_grade\Data_Structures_Book\LinkedListObj\obj\Debug\net7.0\LinkedListObj.AssemblyInfoInputs.cache
+c:\Users\zrvma\OneDrive\Desktop\Computer_Science_11_grade\Data_Structures_Book\LinkedListObj\obj\Debug\net7.0\LinkedListObj.AssemblyInfo.cs
+c:\Users\zrvma\OneDrive\Desktop\Computer_Science_11_grade\Data_Structures_Book\LinkedListObj\obj\Debug\net7.0\LinkedListObj.csproj.CoreCompileInputs.cache
+c:\Users\zrvma\OneDrive\Desktop\Computer_Science_11_grade\Data_Structures_Book\LinkedListObj\obj\Debug\net7.0\LinkedListObj.dll
+c:\Users\zrvma\OneDrive\Desktop\Computer_Science_11_grade\Data_Structures_Book\LinkedListObj\obj\Debug\net7.0\refint\LinkedListObj.dll
+c:\Users\zrvma\OneDrive\Desktop\Computer_Science_11_grade\Data_Structures_Book\LinkedListObj\obj\Debug\net7.0\LinkedListObj.pdb
+c:\Users\zrvma\OneDrive\Desktop\Computer_Science_11_grade\Data_Structures_Book\LinkedListObj\obj\Debug\net7.0\LinkedListObj.genruntimeconfig.cache
+c:\Users\zrvma\OneDrive\Desktop\Computer_Science_11_grade\Data_Structures_Book\LinkedListObj\obj\Debug\net7.0\ref\LinkedListObj.dll

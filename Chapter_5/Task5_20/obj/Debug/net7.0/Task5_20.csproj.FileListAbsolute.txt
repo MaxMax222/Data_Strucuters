@@ -1,0 +1,14 @@
+C:\Users\zrvma\OneDrive\Desktop\Computer_Science_11_grade\Data_Structures_Book\Chapter_5\Task5_20\bin\Debug\net7.0\Task5_20.exe
+C:\Users\zrvma\OneDrive\Desktop\Computer_Science_11_grade\Data_Structures_Book\Chapter_5\Task5_20\bin\Debug\net7.0\Task5_20.deps.json
+C:\Users\zrvma\OneDrive\Desktop\Computer_Science_11_grade\Data_Structures_Book\Chapter_5\Task5_20\bin\Debug\net7.0\Task5_20.runtimeconfig.json
+C:\Users\zrvma\OneDrive\Desktop\Computer_Science_11_grade\Data_Structures_Book\Chapter_5\Task5_20\bin\Debug\net7.0\Task5_20.dll
+C:\Users\zrvma\OneDrive\Desktop\Computer_Science_11_grade\Data_Structures_Book\Chapter_5\Task5_20\bin\Debug\net7.0\Task5_20.pdb
+C:\Users\zrvma\OneDrive\Desktop\Computer_Science_11_grade\Data_Structures_Book\Chapter_5\Task5_20\obj\Debug\net7.0\Task5_20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zrvma\OneDrive\Desktop\Computer_Science_11_grade\Data_Structures_Book\Chapter_5\Task5_20\obj\Debug\net7.0\Task5_20.AssemblyInfoInputs.cache
+C:\Users\zrvma\OneDrive\Desktop\Computer_Science_11_grade\Data_Structures_Book\Chapter_5\Task5_20\obj\Debug\net7.0\Task5_20.AssemblyInfo.cs
+C:\Users\zrvma\OneDrive\Desktop\Computer_Science_11_grade\Data_Structures_Book\Chapter_5\Task5_20\obj\Debug\net7.0\Task5_20.csproj.CoreCompileInputs.cache
+C:\Users\zrvma\OneDrive\Desktop\Computer_Science_11_grade\Data_Structures_Book\Chapter_5\Task5_20\obj\Debug\net7.0\Task5_20.dll
+C:\Users\zrvma\OneDrive\Desktop\Computer_Science_11_grade\Data_Structures_Book\Chapter_5\Task5_20\obj\Debug\net7.0\refint\Task5_20.dll
+C:\Users\zrvma\OneDrive\Desktop\Computer_Science_11_grade\Data_Structures_Book\Chapter_5\Task5_20\obj\Debug\net7.0\Task5_20.pdb
+C:\Users\zrvma\OneDrive\Desktop\Computer_Science_11_grade\Data_Structures_Book\Chapter_5\Task5_20\obj\Debug\net7.0\Task5_20.genruntimeconfig.cache
+C:\Users\zrvma\OneDrive\Desktop\Computer_Science_11_grade\Data_Structures_Book\Chapter_5\Task5_20\obj\Debug\net7.0\ref\Task5_20.dll

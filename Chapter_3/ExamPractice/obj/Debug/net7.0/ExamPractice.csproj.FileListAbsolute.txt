@@ -1,0 +1,15 @@
+C:\Users\zrvma\OneDrive\Desktop\Computer_Science_11_grade\Data_Structures_Book\Chapter_3\ExamPractice\bin\Debug\net7.0\ExamPractice.exe
+C:\Users\zrvma\OneDrive\Desktop\Computer_Science_11_grade\Data_Structures_Book\Chapter_3\ExamPractice\bin\Debug\net7.0\ExamPractice.deps.json
+C:\Users\zrvma\OneDrive\Desktop\Computer_Science_11_grade\Data_Structures_Book\Chapter_3\ExamPractice\bin\Debug\net7.0\ExamPractice.runtimeconfig.json
+C:\Users\zrvma\OneDrive\Desktop\Computer_Science_11_grade\Data_Structures_Book\Chapter_3\ExamPractice\bin\Debug\net7.0\ExamPractice.dll
+C:\Users\zrvma\OneDrive\Desktop\Computer_Science_11_grade\Data_Structures_Book\Chapter_3\ExamPractice\bin\Debug\net7.0\ExamPractice.pdb
+C:\Users\zrvma\OneDrive\Desktop\Computer_Science_11_grade\Data_Structures_Book\Chapter_3\ExamPractice\obj\Debug\net7.0\ExamPractice.csproj.AssemblyReference.cache
+C:\Users\zrvma\OneDrive\Desktop\Computer_Science_11_grade\Data_Structures_Book\Chapter_3\ExamPractice\obj\Debug\net7.0\ExamPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zrvma\OneDrive\Desktop\Computer_Science_11_grade\Data_Structures_Book\Chapter_3\ExamPractice\obj\Debug\net7.0\ExamPractice.AssemblyInfoInputs.cache
+C:\Users\zrvma\OneDrive\Desktop\Computer_Science_11_grade\Data_Structures_Book\Chapter_3\ExamPractice\obj\Debug\net7.0\ExamPractice.AssemblyInfo.cs
+C:\Users\zrvma\OneDrive\Desktop\Computer_Science_11_grade\Data_Structures_Book\Chapter_3\ExamPractice\obj\Debug\net7.0\ExamPractice.csproj.CoreCompileInputs.cache
+C:\Users\zrvma\OneDrive\Desktop\Computer_Science_11_grade\Data_Structures_Book\Chapter_3\ExamPractice\obj\Debug\net7.0\ExamPractice.dll
+C:\Users\zrvma\OneDrive\Desktop\Computer_Science_11_grade\Data_Structures_Book\Chapter_3\ExamPractice\obj\Debug\net7.0\refint\ExamPractice.dll
+C:\Users\zrvma\OneDrive\Desktop\Computer_Science_11_grade\Data_Structures_Book\Chapter_3\ExamPractice\obj\Debug\net7.0\ExamPractice.pdb
+C:\Users\zrvma\OneDrive\Desktop\Computer_Science_11_grade\Data_Structures_Book\Chapter_3\ExamPractice\obj\Debug\net7.0\ExamPractice.genruntimeconfig.cache
+C:\Users\zrvma\OneDrive\Desktop\Computer_Science_11_grade\Data_Structures_Book\Chapter_3\ExamPractice\obj\Debug\net7.0\ref\ExamPractice.dll

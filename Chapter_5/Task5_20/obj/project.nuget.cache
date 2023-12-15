@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "RPyMcIX94/DCguUri16t9zsVokGAmnCzqeR0BYvXUqwvkHI2xtInSTltuj2dppID/x/mkw+5IUE1YYVaLL2BYQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zrvma\\OneDrive\\Desktop\\Computer_Science_11_grade\\Data_Structures_Book\\Chapter_5\\Task5_20\\Task5_20.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zrvma\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\zrvma\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\zrvma\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\zrvma\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
